@@ -1,0 +1,1 @@
+This is a file in branch 1 and will not be added in master branch
